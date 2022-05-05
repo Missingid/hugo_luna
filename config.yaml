@@ -121,18 +121,18 @@ menu:
     #   params:
     #     icon: eva eva-folder
     #   url: /categories/
-    #- name: Twitter
-    #  weight: 70
-    #  identifier: twitter
-    #  params:
-    #    icon: eva eva-twitter
-    #  url: /twitter/
-    #- name: GitHub
-    #  weight: 80
-    #  identifier: github
-    #  params:
-    #    icon: eva eva-github
-    #  url: /github/
+    # - name: Twitter
+    #   weight: 70
+    #   identifier: twitter
+    #   params:
+    #     icon: eva eva-twitter
+    #   url: /twitter/
+    # - name: GitHub
+    #   weight: 80
+    #   identifier: github
+    #   params:
+    #     icon: eva eva-github
+    #   url: /github/
     - name: Search
       weight: 999
       identifier: search
