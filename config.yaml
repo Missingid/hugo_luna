@@ -1,6 +1,6 @@
 baseURL: https://hugo-luna-missingid.vercel.app/
 languageCode: en-us
-defaultContentLanguage: en-us
+defaultContentLanguage: zh-cn
 title: Missing不想睡
 enableRobotsTXT: true
 enableEmoji: true
