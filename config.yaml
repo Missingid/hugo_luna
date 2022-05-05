@@ -1,7 +1,7 @@
 baseURL: https://hugo-luna-missingid.vercel.app/
 languageCode: en-us
 defaultContentLanguage: en-us
-title: Ice-Hazymoon's Blog
+title: Missing不想睡
 enableRobotsTXT: true
 enableEmoji: true
 theme: hugo-theme-luna
@@ -31,7 +31,7 @@ permalinks:
   posts: /:year/:month/:day/:slug.html # 2019/01/01/hello-world.html
 
 author:
-  name: Missing不想睡
+  name: Ice-Hazymoon
 
 frontmatter:
   lastmod:
